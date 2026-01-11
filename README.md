@@ -1,4 +1,6 @@
-📊 Indian Employment & AI Risk Analysis (2023–2028)
+📊 Indian Employment & AI Risk Analysis
+
+
 📌 Project Overview
 This project explores the Indian employment landscape, analyzing salary distributions, industry trends, and the perceived impact of AI on the workforce. Starting with a "messy" dataset containing inconsistent entries and missing values, I performed end-to-end Data Cleaning, Feature Engineering, and Exploratory Data Analysis (EDA) to derive strategic insights.
 
