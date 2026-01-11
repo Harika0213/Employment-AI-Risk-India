@@ -21,6 +21,8 @@ Seaborn & Matplotlib: Advanced statistical visualization.
 Numpy: Numerical operations and data type handling.
 
 Environment: Jupyter Notebook.
+
+
 🧹 Data Engineering Highlights
 To move from raw data to insights, I executed several critical data engineering steps:
 
@@ -62,19 +64,17 @@ The Metro Premium: Living in a Metro city provides not only higher pay but a sig
 
 Experience Scaling: There is a notable "Salary Jump" at the 10-year experience mark, signaling the shift from execution-based to strategy-based roles.
 
-├── Data/
-│   ├── Messy_Employment_India_Dataset.csv   # Original raw data
-│   └── Cleaned_Employment_India_Data.csv    # Final processed data for BI
-├── Notebooks/
-│   └── Employment_Analysis_India.ipynb      # Complete Python code & analysis
-└── README.md                                # Project documentation
 
-KPI,Value
-Total Workforce Sampled,"1,388"
-Avg. Annual Salary (LPA),8.2 Lakhs
-Employment Rate,~75%
-High AI Risk Exposure,~22%
-Top Paying Industry,Technology
+
+### 📊 Executive Summary Dashboard
+
+| Metric | Status/Value |
+| :--- | :--- |
+| 👥 **Total Records** | 1,388 Verified |
+| 💰 **Market Pay (Avg)** | 8.2 LPA |
+| 💼 **Employment Stability** | 75.2% |
+| 🤖 **AI Impact Risk** | 22.1% (High) |
+| 📍 **Primary Hub** | Metro Cities |
 
 📬 Contact
 Project Developed by: [Your Name] LinkedIn: [Your LinkedIn Profile Link] Portfolio: [Link to other projects]
