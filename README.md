@@ -79,4 +79,6 @@ Experience Scaling: There is a notable "Salary Jump" at the 10-year experience m
 | 📍 **Primary Hub** | Metro Cities |
 
 📬 Contact
-Project Developed by: [Your Name] LinkedIn: [Your LinkedIn Profile Link] Portfolio: [Link to other projects]
+Project Developed by: Harika
+LinkedIn: https://www.linkedin.com/in/harika-boggavarapu/
+
