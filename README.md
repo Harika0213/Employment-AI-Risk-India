@@ -80,5 +80,6 @@ Experience Scaling: There is a notable "Salary Jump" at the 10-year experience m
 
 📬 Contact
 Project Developed by: Harika
+
 LinkedIn: https://www.linkedin.com/in/harika-boggavarapu/
 
