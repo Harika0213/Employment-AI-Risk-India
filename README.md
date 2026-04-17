@@ -3,8 +3,11 @@
 🧠 Business Problem
 
 With the rapid rise of AI, organizations and professionals need to understand:
+
 Which industries are most vulnerable to AI disruption?
+
 How salary and experience influence job stability
+
 Whether metro cities provide better career security
 
 This project analyzes employment patterns to support data-driven workforce and career decisions.
